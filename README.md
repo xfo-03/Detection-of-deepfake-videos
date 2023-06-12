@@ -1,6 +1,6 @@
-# Detection-of-deepfake-videos
-#A Deep-learning approach using Frame-level analysis for the detection of deepfake videos. /nFinal year thesis/project
-/nFeb-May,2023
+# A Deep-learning approach using Frame-level analysis for the detection of deepfake videos
+Final year thesis/project,
+Feb-May,2023.
 We developed a deep learning (DL) architecture for the detection of deepfake
 videos using frame level analysis.
 The approach involves feature extraction from histogram analysis, edge detection
